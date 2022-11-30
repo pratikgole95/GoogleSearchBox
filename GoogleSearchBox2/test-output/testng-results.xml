@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="11" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-30T23:49:21 IST" name="Default suite" finished-at="2022-11-30T23:49:29 IST" duration-ms="7791">
+    <groups>
+    </groups>
+    <test started-at="2022-11-30T23:49:21 IST" name="Default test" finished-at="2022-11-30T23:49:29 IST" duration-ms="7791">
+      <class name="searchBox.BrowserLaunch">
+        <test-method is-config="true" signature="Broswerlnch()[pri:0, instance:searchBox.BrowserLaunch@7ce026d3]" started-at="2022-11-30T23:49:21 IST" name="Broswerlnch" finished-at="2022-11-30T23:49:26 IST" duration-ms="4598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Broswerlnch -->
+        <test-method signature="verifyMisspelledKeyword()[pri:0, instance:searchBox.BrowserLaunch@7ce026d3]" started-at="2022-11-30T23:49:26 IST" name="verifyMisspelledKeyword" finished-at="2022-11-30T23:49:29 IST" duration-ms="2965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMisspelledKeyword -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:searchBox.BrowserLaunch@7ce026d3]" started-at="2022-11-30T23:49:29 IST" name="BrowserClose" finished-at="2022-11-30T23:49:29 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- searchBox.BrowserLaunch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
